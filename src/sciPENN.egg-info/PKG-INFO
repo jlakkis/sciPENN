@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
 Name: sciPENN
-Version: 0.9.2
+Version: 0.9.3
 Summary: A package for integrative and predictive analysis of CITE-seq data
-Home-page: https://github.com/pypa/sampleproject
+Home-page: https://github.com/jlakkis/sciPENN
 Author: Justin Lakkis
 Author-email: jlakks@gmail.com
 License: UNKNOWN

@@ -8,6 +8,7 @@ src/sciPENN/sciPENN_API.py
 src/sciPENN.egg-info/PKG-INFO
 src/sciPENN.egg-info/SOURCES.txt
 src/sciPENN.egg-info/dependency_links.txt
+src/sciPENN.egg-info/requires.txt
 src/sciPENN.egg-info/top_level.txt
 src/sciPENN/Data_Infrastructure/DataLoader.py
 src/sciPENN/Data_Infrastructure/DataLoader_Constructor.py

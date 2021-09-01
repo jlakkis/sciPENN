@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: sciPENN
-Version: 0.0.3
+Version: 0.9.2
 Summary: A package for integrative and predictive analysis of CITE-seq data
 Home-page: https://github.com/pypa/sampleproject
 Author: Justin Lakkis
@@ -10,7 +10,7 @@ Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
-Requires-Python: >=3.6
+Requires-Python: >=3.7
 Description-Content-Type: text/markdown
 License-File: LICENSE.rtf
 
@@ -61,7 +61,7 @@ Now, to use sciPENN, always make sure you activate the environment in terminal f
 
 ## Usage
 
-A [tutorial jupyter notebook](https://drive.google.com/drive/folders/19VVOoq4XSdDFRZDou-VbTMyV2Na9z53O?usp=sharing), together with a dataset, is publicly downloadable.
+A [tutorial jupyter notebook](https://drive.google.com/drive/folders/1iY4s76UYNMFvF6v3XN4JxD9gM77NIxoH?usp=sharing), together with a dataset, is publicly downloadable.
 
 ## Software Requirements
 

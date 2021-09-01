@@ -45,7 +45,7 @@ Now, to use sciPENN, always make sure you activate the environment in terminal f
 
 ## Usage
 
-A [tutorial jupyter notebook](https://drive.google.com/drive/folders/19VVOoq4XSdDFRZDou-VbTMyV2Na9z53O?usp=sharing), together with a dataset, is publicly downloadable.
+A [tutorial jupyter notebook](https://drive.google.com/drive/folders/1iY4s76UYNMFvF6v3XN4JxD9gM77NIxoH?usp=sharing), together with a dataset, is publicly downloadable.
 
 ## Software Requirements
 

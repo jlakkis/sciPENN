@@ -9,7 +9,7 @@ sciPENN (**s**ingle **c**ell **i**mputation **P**rotein **E**mbedding **N**eural
 
 ## Reproducibility
 
-To find code to reproduce the results we generated in that paper, please visit this separate [github repository](https://github.com/jlakkis/CarDEC_Codes), which provides all code (including that for other methods) necessary to reproduce our results.
+To find code to reproduce the results we generated in that paper, please visit this separate [github repository](https://github.com/jlakkis/sciPENN_codes), which provides all code (including that for other methods) necessary to reproduce our results.
 
 ## Installation
 
@@ -35,13 +35,13 @@ $ conda install python==3.7
 $ conda install nb_conda_kernels
 ```
 
-5. Finally, install CarDEC.
+5. Finally, install sciPENN.
 
 ```
 $ pip install sciPENN
 ```
 
-Now, to use sciPENN, always make sure you activate the environment in terminal first ("conda activate scipennenv"). And then run jupyter notebook. When you create a notebook to run CarDEC, make sure the active kernel is switched to "scipennenv"
+Now, to use sciPENN, always make sure you activate the environment in terminal first ("conda activate scipennenv"). And then run jupyter notebook. When you create a notebook to run sciPENN, make sure the active kernel is switched to "scipennenv"
 
 ## Usage
 
@@ -57,3 +57,4 @@ A [tutorial jupyter notebook](https://drive.google.com/drive/folders/1iY4s76UYNM
 - scipy >= 1.6.1
 - tqdm >= 4.59.0
 - anndata >= 0.7.5
+- numba <= 0.50.0
